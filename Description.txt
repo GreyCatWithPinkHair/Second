@@ -1,0 +1,13 @@
+ADDED:
+    -Bubble sort
+    -faster output in cases when array size is 0 or 1
+
+Time complexity:
+
+Bubble sort - O(n^2)
+Filling the array - O(n)
+Squarifying the array - O(n)
+Output from the array - O(n)
+"n == 0" amd "n == 1" cases - O(1)
+
+Toal - O(n^2)
